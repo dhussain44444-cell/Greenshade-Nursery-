@@ -1,0 +1,6 @@
+{
+  "name": "Amar Gaon Nursery",
+  "description": "Guwahati's premier botanical nursery in Rani Gate, Azara, plant store, landscaping specialist, and AI plant care assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
